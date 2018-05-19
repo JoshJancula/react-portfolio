@@ -1,0 +1,55 @@
+.portfolioImage {
+    width: 500px;
+}
+
+.portfolioButton {
+    width: 500px;
+}
+
+.dropdown-menu {
+    position: relative;
+z-index: 10000;
+}
+
+
+
+/*tablets*/
+@media screen and (max-width: 900px) and (min-width: 601px) and (-webkit-min-device-pixel-ratio: 2) {
+    
+  .portfolioImage {
+    width: 500px;
+}
+
+.portfolioButton {
+    width: 500px;
+}
+
+}
+
+
+
+/*phones*/
+@media screen and (max-width: 600px) and (min-width: 250px) and (-webkit-min-device-pixel-ratio: 2) {
+    
+ .portfolioImage {
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 200px;
+}
+
+.portfolioButton {
+     width: 250px;
+     margin-left: 50px;
+  
+}
+
+
+
+
+    
+}
+
+
+
+

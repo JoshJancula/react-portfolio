@@ -1,0 +1,66 @@
+[
+    
+    {
+    "name":"Jam-Clash",
+    "image":"http://www.joshjancula.com/images/jamClash.png",
+    "link":"https://jam-clash.herokuapp.com",
+    "summary":"An app that helps local musicians connect."
+},
+    {
+  "name":"Fridge-2-Plate",
+  "image":"http://www.joshjancula.com/images/fridgeImage.png",
+  "link":"https://fridge2plate.herokuapp.com/",
+  "summary":"An app designed to generate recipe ideas for a user based upon ingredients provided by the user."
+},
+
+{
+    "name":"Clicky-Game",
+    "image":"http://www.joshjancula.com/images/clickyGame.png",
+    "link":"https://j-clicky-game.herokuapp.com/",
+    "summary":"A South Park themed memory game built with React.js."
+},
+  {
+    "name":"Mortal-Kombat",
+    "image":"http://www.joshjancula.com/images/rpgImage.png",
+    "link": "https://joshjancula.github.io/RPG-game/",
+    "summary":"Mortal Kombat themed game, try to complete all 5 rounds!"
+        
+    },
+
+
+{
+    "name":"Mongo-Scraper",
+    "image":"http://www.joshjancula.com/images/mongoImage.png",
+    "link":"https://j-mongo-scraper.herokuapp.com/",
+    "summary":"Scrapes 'The Onion' for the most recent headlines and provides a link to the article as well as an option to leave a note on the article."
+},
+{
+    "name":"Trivia-Game",
+    "image":"http://www.joshjancula.com/images/triviaImage.png",
+    "link":"https://joshjancula.github.io/triviaGame/#",
+    "summary":"A fun trivia game that picks a random 10 South Park themed questions."
+},
+
+{
+    "name":"Friend-Finder",
+    "image":"http://www.joshjancula.com/images/surveyImage.png",
+    "link":"https://j-friend-finder.herokuapp.com/",
+    "summary":"A quick fun survey to see who is a compatible friend for you!"
+},
+
+{
+    "name":"Giphy",
+    "image":"http://www.joshjancula.com/images/giphy.png",
+    "link":"https://joshjancula.github.io/GIPHY/",
+    "summary":"Run a quick search for some Gifs using the Giphy API"
+},
+
+
+{
+    "name":"Crystal-Collector",
+    "image":"http://www.joshjancula.com/images/newCrystal.png",
+    "link":"https://joshjancula.github.io/CrystalCollector/",
+    "summary":"A fun game where the Gem values are randomized and hidden. The user then tries to match the randomized score with those gem values."
+}
+
+]

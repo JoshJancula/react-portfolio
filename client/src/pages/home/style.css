@@ -1,0 +1,84 @@
+
+#joshImage {
+    width: 30%;
+    margin-right: 3%;
+    float: left;
+}
+
+p {
+    font-size: 24px;
+    color: #2A9595;
+    line-height: 1.6;
+}
+
+h2 {
+    color: #2A9595;
+    border-bottom: 2px solid #2A9595;
+}
+
+.panel {
+    border: none;
+    opacity: .9;
+}
+
+.panel-body {
+    background: black;
+    opacity: 0.9;
+}
+
+.panel-heading {
+    background: black;
+    color: #00FF00;
+}
+
+#aboutPanel {
+    margin-top: 9.5%;
+    width: 70%;
+}
+
+
+
+
+/*tablets*/
+@media screen and (max-width: 900px) and (min-width: 601px) and (-webkit-min-device-pixel-ratio: 2) {
+    #joshImage {
+    width: 30%;
+    margin-right: 3%;
+
+}
+
+#aboutPanel {
+    margin-top: 5%;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+    
+}
+
+
+
+/*phones*/
+@media screen and (max-width: 600px) and (min-width: 250px) and (-webkit-min-device-pixel-ratio: 2) {
+    
+     #joshImage {
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 3%;
+    margin-top: 3%;
+    clear: both;
+     }
+     
+     #aboutPanel {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+}
+    
+    
+}
+
+

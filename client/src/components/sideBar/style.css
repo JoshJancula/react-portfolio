@@ -1,0 +1,50 @@
+
+
+.social {
+    width: 80%;
+    height: 60px;
+}
+
+.panel, .panel-content {
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 20%;
+}
+
+
+
+/*tablets*/
+@media screen and (max-width: 900px) and (min-width: 601px) and (-webkit-min-device-pixel-ratio: 2) {
+     .panel, .panel-content {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 10%;
+}
+
+.social {
+    width: 80%;
+    height: 80px;
+}
+    
+}
+
+
+
+/*phones*/
+@media screen and (max-width: 600px) and (min-width: 250px) and (-webkit-min-device-pixel-ratio: 2) {
+    
+     .panel, .panel-content {
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 10%;
+}
+    
+    
+    
+}
+
+
+

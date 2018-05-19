@@ -1,0 +1,51 @@
+body,
+html {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    height: 100%;
+        /*background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzdQiLqSixKxyFtUPMkmQMpz6Xqept5RnVIabJLfMXnyauueOn');*/
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmjezdcMEESBJQskg0fNI4DW1xyv7ZGixZp0_itdS-oLjuVZ2z');
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex: 1;
+}
+
+
+
+
+/*tablets*/
+
+@media screen and (max-width: 900px) and (min-width: 601px) and (-webkit-min-device-pixel-ratio: 2) {
+    body,
+    html {
+        margin: 0;
+        padding: 0;
+        font-family: sans-serif;
+        height: 100%;
+        background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzdQiLqSixKxyFtUPMkmQMpz6Xqept5RnVIabJLfMXnyauueOn');
+        background-repeat: repeat;
+        background-size: cover;
+        flex: 1;
+    }
+
+}
+
+
+
+/*phones*/
+
+@media screen and (max-width: 600px) and (min-width: 250px) and (-webkit-min-device-pixel-ratio: 2) {
+    body,
+    html {
+        margin: 0;
+        padding: 0;
+        font-family: sans-serif;
+        height: 100%;
+        background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzdQiLqSixKxyFtUPMkmQMpz6Xqept5RnVIabJLfMXnyauueOn');
+        background-repeat: repeat;
+        background-size: normal;
+        flex: 1;
+    }
+
+}

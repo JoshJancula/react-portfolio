@@ -1,0 +1,40 @@
+
+.panel-content, .panel {
+    background-color: black;
+    opacity: .9;
+}
+
+#contactPanel {
+    margin-top: -4%;
+    padding-bottom: 7%;
+}
+
+#message, #email, #name, label {
+    background-color: black;
+    color: #2A9595;
+}
+
+
+
+
+/*tablets*/
+@media screen and (max-width: 900px) and (min-width: 601px) and (-webkit-min-device-pixel-ratio: 2) {
+    #contactPanel {
+    margin-top: -4%;
+    padding-bottom: 10%;
+}
+    
+}
+
+
+
+/*phones*/
+@media screen and (max-width: 600px) and (min-width: 250px) and (-webkit-min-device-pixel-ratio: 2) {
+    
+    #contactPanel {
+    margin-top: 10%;
+    padding-bottom: 15%;
+}
+    
+}
+
